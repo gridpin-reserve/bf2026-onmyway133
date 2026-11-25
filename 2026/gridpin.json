@@ -1,0 +1,14 @@
+{
+  "name": "GridPin",
+  "url": "https://gridpin.dev/buy#snapshot",
+  "description": "Offline geocoder for 13 countries: one file per country, no API key",
+  "category": "developer-tools",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "40% off the one-time Snapshot, paid in USDC",
+  "pricing": "one-time",
+  "price": { "regular": 199, "sale": 119, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://gridpin.dev/apple-touch-icon.png"
+}
